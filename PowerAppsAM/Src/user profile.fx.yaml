@@ -55,8 +55,8 @@
         Height: =260
         Icon: =Icon.Person
         Width: =260
-        X: =340
-        Y: =246
+        X: =310
+        Y: =266
         ZIndex: =8
 
     Circle1 As circle:
@@ -65,7 +65,7 @@
         Fill: =RGBA(0, 0, 0, 0)
         Height: =260
         Width: =260
-        X: =340
-        Y: =246
+        X: =310
+        Y: =266
         ZIndex: =9
 
