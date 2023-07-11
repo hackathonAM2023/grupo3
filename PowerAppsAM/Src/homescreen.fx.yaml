@@ -1,0 +1,195 @@
+homescreen As screen:
+
+    Rectangle1 As rectangle:
+        Fill: =RGBA(114, 161, 176, 1)
+        Height: =104
+        Width: =640
+        ZIndex: =1
+
+    Label3_3 As label:
+        Align: =Align.Center
+        Color: =RGBA(26, 26, 26, 1)
+        Font: =Font.'Lato Light'
+        FontWeight: =FontWeight.Bold
+        Height: =83
+        Size: =36
+        Text: |-
+            ="://netrust"
+        Width: =256
+        X: =192
+        Y: =10
+        ZIndex: =2
+
+    Icon1 As icon.Hamburger:
+        Color: =RGBA(26, 26, 26, 1)
+        Icon: =Icon.Hamburger
+        X: =26
+        Y: =19
+        ZIndex: =3
+
+    Icon2 As icon.Person:
+        Color: =RGBA(26, 26, 26, 1)
+        Icon: =Icon.Person
+        X: =550
+        Y: =19
+        ZIndex: =4
+
+    Label2_5 As label:
+        Color: =RGBA(26, 26, 26, 1)
+        Font: =Font.'Lato Light'
+        FontWeight: =FontWeight.Semibold
+        Height: =60
+        Size: =21
+        Text: ="Welcome, ----"
+        Width: =560
+        X: =40
+        Y: =143
+        ZIndex: =5
+
+    Label2_6 As label:
+        Color: =RGBA(26, 26, 26, 1)
+        Font: =Font.'Lato Light'
+        FontWeight: =FontWeight.Bold
+        Height: =60
+        Size: =26
+        Text: ="Explore modules"
+        Width: =560
+        X: =35
+        Y: =223
+        ZIndex: =6
+
+    Icon5 As icon.Search:
+        Color: =RGBA(26, 26, 26, 1)
+        Height: =44
+        Icon: =Icon.Search
+        Width: =45
+        X: =550
+        Y: =231
+        ZIndex: =7
+
+    Button2 As button:
+        Align: =Align.Left
+        Color: =RGBA(26, 26, 26, 1)
+        Fill: =RGBA(237, 237, 237, 1)
+        Font: =Font.'Lato Light'
+        Height: =250
+        RadiusBottomLeft: =8
+        RadiusBottomRight: =8
+        RadiusTopLeft: =8
+        RadiusTopRight: =8
+        Size: =28
+        TabIndex: =-2
+        Text: ="Module I Cookies"
+        VerticalAlign: =VerticalAlign.Top
+        Width: =280
+        X: =40
+        Y: =313
+        ZIndex: =8
+
+    Button2_1 As button:
+        Align: =Align.Left
+        Color: =RGBA(26, 26, 26, 1)
+        Fill: =RGBA(237, 237, 237, 1)
+        Font: =Font.'Lato Light'
+        Height: =250
+        RadiusBottomLeft: =8
+        RadiusBottomRight: =8
+        RadiusTopLeft: =8
+        RadiusTopRight: =8
+        Size: =28
+        TabIndex: =-2
+        Text: ="Module II Passwords"
+        VerticalAlign: =VerticalAlign.Top
+        Width: =280
+        X: =360
+        Y: =313
+        ZIndex: =9
+
+    Label2_7 As label:
+        Color: =RGBA(26, 26, 26, 1)
+        Font: =Font.'Lato Light'
+        FontWeight: =FontWeight.Bold
+        Height: =60
+        Size: =26
+        Text: ="Explore minigames"
+        Width: =560
+        X: =40
+        Y: =626
+        ZIndex: =10
+
+    Icon5_1 As icon.Search:
+        Color: =RGBA(26, 26, 26, 1)
+        Height: =44
+        Icon: =Icon.Search
+        Width: =45
+        X: =550
+        Y: =644
+        ZIndex: =11
+
+    Label2_8 As label:
+        Align: =Align.Justify
+        Color: =RGBA(26, 26, 26, 1)
+        Font: =Font.'Lato Light'
+        FontWeight: =FontWeight.Semibold
+        Height: =60
+        Size: =21
+        Text: ="      Available after reading each corresponding module."
+        Width: =560
+        X: =40
+        Y: =706
+        ZIndex: =12
+
+    Icon3 As icon.ChevronRight:
+        Color: =RGBA(26, 26, 26, 1)
+        Height: =26
+        Icon: =Icon.ChevronRight
+        Width: =19
+        X: =48
+        Y: =706
+        ZIndex: =13
+
+    Button2_2 As button:
+        Align: =Align.Left
+        Color: =RGBA(26, 26, 26, 1)
+        Fill: =RGBA(237, 237, 237, 1)
+        Font: =Font.'Lato Light'
+        Height: =250
+        RadiusBottomLeft: =8
+        RadiusBottomRight: =8
+        RadiusTopLeft: =8
+        RadiusTopRight: =8
+        Size: =28
+        TabIndex: =-2
+        Text: ="Module I Cookies"
+        VerticalAlign: =VerticalAlign.Top
+        Width: =280
+        X: =40
+        Y: =817
+        ZIndex: =14
+
+    Button2_3 As button:
+        Align: =Align.Left
+        Color: =RGBA(26, 26, 26, 1)
+        Fill: =RGBA(237, 237, 237, 1)
+        Font: =Font.'Lato Light'
+        Height: =250
+        RadiusBottomLeft: =8
+        RadiusBottomRight: =8
+        RadiusTopLeft: =8
+        RadiusTopRight: =8
+        Size: =28
+        TabIndex: =-2
+        Text: ="Module II Passwords"
+        VerticalAlign: =VerticalAlign.Top
+        Width: =280
+        X: =360
+        Y: =817
+        ZIndex: =15
+
+    Rectangle2 As rectangle:
+        Height: =0
+        Width: =521
+        X: =60
+        Y: =60
+        ZIndex: =16
+
