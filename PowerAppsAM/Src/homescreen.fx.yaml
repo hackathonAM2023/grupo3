@@ -79,7 +79,7 @@ homescreen As screen:
     Button2 As button:
         Align: =Align.Left
         Color: =RGBA(26, 26, 26, 1)
-        Fill: =RGBA(237, 237, 237, 1)
+        Fill: =RGBA(222, 242, 255, 1)
         Font: =Font.'Lato Light'
         Height: =250
         PaddingBottom: =12
@@ -102,7 +102,7 @@ homescreen As screen:
     Button2_1 As button:
         Align: =Align.Left
         Color: =RGBA(26, 26, 26, 1)
-        Fill: =RGBA(237, 237, 237, 1)
+        Fill: =RGBA(222, 242, 255, 1)
         Font: =Font.'Lato Light'
         Height: =250
         PaddingBottom: =12
@@ -174,10 +174,15 @@ homescreen As screen:
 
     Button2_2 As button:
         Align: =Align.Left
+        BorderStyle: =BorderStyle.Dashed
         Color: =RGBA(26, 26, 26, 1)
-        Fill: =RGBA(237, 237, 237, 1)
+        DisabledBorderColor: =RGBA(0, 121, 187, 1)
+        DisabledColor: =RGBA(102, 182, 227, 1)
+        DisabledFill: =RGBA(0, 121, 187, 1)
+        Fill: =RGBA(185, 217, 237, 1)
         Font: =Font.'Lato Light'
         Height: =250
+        HoverColor: =RGBA(0, 121, 187, 1)
         PaddingBottom: =12
         PaddingLeft: =12
         PaddingRight: =12
@@ -198,7 +203,7 @@ homescreen As screen:
     Button2_3 As button:
         Align: =Align.Left
         Color: =RGBA(26, 26, 26, 1)
-        Fill: =RGBA(237, 237, 237, 1)
+        Fill: =RGBA(185, 217, 237, 1)
         Font: =Font.'Lato Light'
         Height: =250
         PaddingBottom: =12
@@ -217,4 +222,20 @@ homescreen As screen:
         X: =360
         Y: =817
         ZIndex: =15
+
+    Image3 As image:
+        Height: =170
+        Image: =galleta
+        Width: =172
+        X: =148
+        Y: =393
+        ZIndex: =17
+
+    Image4 As image:
+        Height: =171
+        Image: ='candado-removebg-preview'
+        Width: =127
+        X: =509
+        Y: =392
+        ZIndex: =18
 

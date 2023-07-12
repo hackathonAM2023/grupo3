@@ -1,8 +1,8 @@
 logo As screen:
 
     Label3 As label:
-        Color: =RGBA(84, 130, 146, 1)
-        Font: =Font.'Lato Light'
+        Color: =RGBA(63, 215, 232, 1)
+        Font: =Font.Verdana
         FontWeight: =FontWeight.Bold
         Height: =88
         PaddingBottom: =12
@@ -13,7 +13,7 @@ logo As screen:
         Text: |-
             ="://Nettrust"
         Width: =575
-        X: =32
+        X: =16
         Y: =54
         ZIndex: =2
 
