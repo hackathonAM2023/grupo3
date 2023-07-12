@@ -42,10 +42,10 @@
         ZIndex: =5
 
     Label2_11 As label:
-        BorderColor: =RGBA(237, 237, 237, 1)
+        BorderColor: =RGBA(219, 219, 219, 1)
         BorderThickness: =4
         Color: =RGBA(26, 26, 26, 1)
-        FocusedBorderThickness: =6
+        FocusedBorderThickness: =4
         Font: =Font.'Lato Light'
         FontWeight: =FontWeight.Bold
         Height: =60

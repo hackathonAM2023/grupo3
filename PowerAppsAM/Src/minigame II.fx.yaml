@@ -42,13 +42,17 @@
         ZIndex: =5
 
     Label2_13 As label:
-        BorderColor: =RGBA(237, 237, 237, 1)
+        BorderColor: =RGBA(219, 219, 219, 1)
         BorderThickness: =4
         Color: =RGBA(26, 26, 26, 1)
-        FocusedBorderThickness: =6
+        FocusedBorderThickness: =4
         Font: =Font.'Lato Light'
         FontWeight: =FontWeight.Bold
         Height: =60
+        PaddingBottom: =12
+        PaddingLeft: =12
+        PaddingRight: =12
+        PaddingTop: =12
         Size: =26
         Text: |-
             ="Minigame II: "
@@ -56,4 +60,36 @@
         X: =40
         Y: =142
         ZIndex: =6
+
+    Label2_17 As label:
+        Align: =Align.Justify
+        BorderColor: =RGBA(219, 219, 219, 1)
+        BorderThickness: =4
+        Color: =RGBA(26, 26, 26, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Lato Light'
+        FontWeight: =FontWeight.Bold
+        Height: =206
+        PaddingBottom: =12
+        PaddingLeft: =12
+        PaddingRight: =12
+        PaddingTop: =12
+        Size: =24
+        Text: |-
+            ="How to play: You will be shown a series of passwords selecting the ""secure"" and ""not secure"" buttons, you will indicate if they meet the necessary requirements to be strong and efficent passwords."
+        Width: =560
+        X: =40
+        Y: =238
+        ZIndex: =7
+
+    Gallery2 As gallery.galleryVertical:
+        DelayItemLoading: =true
+        Items: ='Minigame II'
+        Layout: =Layout.Vertical
+        LoadingSpinner: =LoadingSpinner.Data
+        TemplateSize: =544
+        Width: =579
+        X: =30
+        Y: =474
+        ZIndex: =8
 
