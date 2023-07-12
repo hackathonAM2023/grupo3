@@ -8,23 +8,20 @@
 
     Label3_10 As label:
         Align: =Align.Center
-        Color: =RGBA(26, 26, 26, 1)
+        Color: =RGBA(241, 244, 249, 1)
         Font: =Font.'Lato Light'
         FontWeight: =FontWeight.Bold
         Height: =83
+        PaddingBottom: =12
+        PaddingLeft: =12
+        PaddingRight: =12
+        PaddingTop: =12
         Size: =36
         Text: ="Profile"
         Width: =256
         X: =192
         Y: =10
         ZIndex: =2
-
-    Rectangle2_7 As rectangle:
-        Height: =0
-        Width: =521
-        X: =60
-        Y: =60
-        ZIndex: =5
 
     Label2_15 As label:
         BorderColor: =RGBA(219, 219, 219, 1)
@@ -34,6 +31,10 @@
         Font: =Font.'Lato Light'
         FontWeight: =FontWeight.Bold
         Height: =60
+        PaddingBottom: =12
+        PaddingLeft: =12
+        PaddingRight: =12
+        PaddingTop: =12
         Size: =26
         Text: ="User profile"
         Width: =560
@@ -42,10 +43,10 @@
         ZIndex: =6
 
     Icon6 As icon.ChevronLeft:
-        Color: =RGBA(26, 26, 26, 1)
-        Height: =54
+        Color: =RGBA(241, 244, 249, 1)
+        Height: =56
         Icon: =Icon.ChevronLeft
-        Width: =52
+        Width: =56
         X: =28
         Y: =24
         ZIndex: =7
