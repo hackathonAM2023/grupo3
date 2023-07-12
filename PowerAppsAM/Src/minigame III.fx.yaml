@@ -42,10 +42,10 @@
         ZIndex: =5
 
     Label2_14 As label:
-        BorderColor: =RGBA(237, 237, 237, 1)
+        BorderColor: =RGBA(219, 219, 219, 1)
         BorderThickness: =4
         Color: =RGBA(26, 26, 26, 1)
-        FocusedBorderThickness: =6
+        FocusedBorderThickness: =4
         Font: =Font.'Lato Light'
         FontWeight: =FontWeight.Bold
         Height: =60
@@ -56,4 +56,21 @@
         X: =40
         Y: =142
         ZIndex: =6
+
+    Label2_18 As label:
+        Align: =Align.Justify
+        BorderColor: =RGBA(219, 219, 219, 1)
+        BorderThickness: =4
+        Color: =RGBA(26, 26, 26, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Lato Light'
+        FontWeight: =FontWeight.Bold
+        Height: =238
+        Size: =24
+        Text: |-
+            ="How to play: "
+        Width: =560
+        X: =40
+        Y: =238
+        ZIndex: =7
 

@@ -39,21 +39,28 @@ homescreen As screen:
         Font: =Font.'Lato Light'
         FontWeight: =FontWeight.Semibold
         Height: =60
-        Size: =21
+        Size: =22
         Text: ="Welcome, ----"
-        Width: =560
-        X: =40
-        Y: =143
+        Width: =579
+        X: =35
+        Y: =154
         ZIndex: =5
 
     Label2_6 As label:
+        BorderColor: =RGBA(219, 219, 219, 1)
+        BorderThickness: =2
         Color: =RGBA(26, 26, 26, 1)
+        FocusedBorderThickness: =4
         Font: =Font.'Lato Light'
         FontWeight: =FontWeight.Bold
-        Height: =60
+        Height: =62
+        PaddingBottom: =12
+        PaddingLeft: =12
+        PaddingRight: =12
+        PaddingTop: =12
         Size: =26
         Text: ="Explore modules"
-        Width: =560
+        Width: =579
         X: =35
         Y: =223
         ZIndex: =6
@@ -63,7 +70,7 @@ homescreen As screen:
         Height: =44
         Icon: =Icon.Search
         Width: =45
-        X: =550
+        X: =559
         Y: =231
         ZIndex: =7
 
@@ -73,10 +80,14 @@ homescreen As screen:
         Fill: =RGBA(237, 237, 237, 1)
         Font: =Font.'Lato Light'
         Height: =250
-        RadiusBottomLeft: =8
-        RadiusBottomRight: =8
-        RadiusTopLeft: =8
-        RadiusTopRight: =8
+        PaddingBottom: =12
+        PaddingLeft: =12
+        PaddingRight: =12
+        PaddingTop: =12
+        RadiusBottomLeft: =16
+        RadiusBottomRight: =16
+        RadiusTopLeft: =16
+        RadiusTopRight: =16
         Size: =28
         TabIndex: =-2
         Text: ="Module I Cookies"
@@ -92,10 +103,14 @@ homescreen As screen:
         Fill: =RGBA(237, 237, 237, 1)
         Font: =Font.'Lato Light'
         Height: =250
-        RadiusBottomLeft: =8
-        RadiusBottomRight: =8
-        RadiusTopLeft: =8
-        RadiusTopRight: =8
+        PaddingBottom: =12
+        PaddingLeft: =12
+        PaddingRight: =12
+        PaddingTop: =12
+        RadiusBottomLeft: =16
+        RadiusBottomRight: =16
+        RadiusTopLeft: =16
+        RadiusTopRight: =16
         Size: =28
         TabIndex: =-2
         Text: ="Module II Passwords"
@@ -106,15 +121,22 @@ homescreen As screen:
         ZIndex: =9
 
     Label2_7 As label:
+        BorderColor: =RGBA(219, 219, 219, 1)
+        BorderThickness: =2
         Color: =RGBA(26, 26, 26, 1)
+        FocusedBorderThickness: =4
         Font: =Font.'Lato Light'
         FontWeight: =FontWeight.Bold
-        Height: =60
+        Height: =62
+        PaddingBottom: =12
+        PaddingLeft: =12
+        PaddingRight: =12
+        PaddingTop: =12
         Size: =26
         Text: ="Explore minigames"
-        Width: =560
+        Width: =579
         X: =40
-        Y: =626
+        Y: =632
         ZIndex: =10
 
     Icon5_1 As icon.Search:
@@ -122,8 +144,8 @@ homescreen As screen:
         Height: =44
         Icon: =Icon.Search
         Width: =45
-        X: =550
-        Y: =644
+        X: =559
+        Y: =640
         ZIndex: =11
 
     Label2_8 As label:
@@ -133,10 +155,10 @@ homescreen As screen:
         FontWeight: =FontWeight.Semibold
         Height: =60
         Size: =21
-        Text: ="      Available after reading each corresponding module."
-        Width: =560
+        Text: ="        Available after reading each corresponding module."
+        Width: =579
         X: =40
-        Y: =706
+        Y: =712
         ZIndex: =12
 
     Icon3 As icon.ChevronRight:
@@ -144,8 +166,8 @@ homescreen As screen:
         Height: =26
         Icon: =Icon.ChevronRight
         Width: =19
-        X: =48
-        Y: =706
+        X: =51
+        Y: =712
         ZIndex: =13
 
     Button2_2 As button:
@@ -154,13 +176,17 @@ homescreen As screen:
         Fill: =RGBA(237, 237, 237, 1)
         Font: =Font.'Lato Light'
         Height: =250
-        RadiusBottomLeft: =8
-        RadiusBottomRight: =8
-        RadiusTopLeft: =8
-        RadiusTopRight: =8
+        PaddingBottom: =12
+        PaddingLeft: =12
+        PaddingRight: =12
+        PaddingTop: =12
+        RadiusBottomLeft: =16
+        RadiusBottomRight: =16
+        RadiusTopLeft: =16
+        RadiusTopRight: =16
         Size: =28
         TabIndex: =-2
-        Text: ="Module I Cookies"
+        Text: ="Minigame I"
         VerticalAlign: =VerticalAlign.Top
         Width: =280
         X: =40
@@ -173,13 +199,17 @@ homescreen As screen:
         Fill: =RGBA(237, 237, 237, 1)
         Font: =Font.'Lato Light'
         Height: =250
-        RadiusBottomLeft: =8
-        RadiusBottomRight: =8
-        RadiusTopLeft: =8
-        RadiusTopRight: =8
+        PaddingBottom: =12
+        PaddingLeft: =12
+        PaddingRight: =12
+        PaddingTop: =12
+        RadiusBottomLeft: =16
+        RadiusBottomRight: =16
+        RadiusTopLeft: =16
+        RadiusTopRight: =16
         Size: =28
         TabIndex: =-2
-        Text: ="Module II Passwords"
+        Text: ="Minigame II"
         VerticalAlign: =VerticalAlign.Top
         Width: =280
         X: =360

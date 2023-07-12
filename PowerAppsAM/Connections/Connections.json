@@ -1,1 +1,24 @@
-{}
+{
+  "1e55b1fa-ffa1-4d40-afb9-18355724e24f": {
+    "connectionRef": {
+      "displayName": "SharePoint",
+      "iconUri": "https://connectoricons-prod.azureedge.net/u/shgogna/globalperconnector-train1/1.0.1639.3312/sharepointonline/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline"
+    },
+    "datasets": {
+      "https://superate2014.sharepoint.com/sites/pruebachamgabriela31": {
+        "dataSources": {
+          "Minigame II": {
+            "tableName": "72931570-eebd-4ff5-97af-9af3b89a9e67"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "Minigame II"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "1e55b1fa-ffa1-4d40-afb9-18355724e24f"
+  }
+}
