@@ -41,6 +41,10 @@ homescreen As screen:
         Font: =Font.'Lato Light'
         FontWeight: =FontWeight.Semibold
         Height: =60
+        PaddingBottom: =8
+        PaddingLeft: =8
+        PaddingRight: =8
+        PaddingTop: =8
         Size: =22
         Text: ="Welcome, ----"
         Width: =579
@@ -55,7 +59,7 @@ homescreen As screen:
         FocusedBorderThickness: =4
         Font: =Font.'Lato Light'
         FontWeight: =FontWeight.Bold
-        Height: =62
+        Height: =64
         PaddingBottom: =12
         PaddingLeft: =12
         PaddingRight: =12
@@ -79,7 +83,7 @@ homescreen As screen:
     Button2 As button:
         Align: =Align.Left
         Color: =RGBA(26, 26, 26, 1)
-        Fill: =RGBA(222, 242, 255, 1)
+        Fill: =RGBA(216, 233, 240, 1)
         Font: =Font.'Lato Light'
         Height: =250
         PaddingBottom: =12
@@ -102,7 +106,7 @@ homescreen As screen:
     Button2_1 As button:
         Align: =Align.Left
         Color: =RGBA(26, 26, 26, 1)
-        Fill: =RGBA(222, 242, 255, 1)
+        Fill: =RGBA(216, 233, 240, 1)
         Font: =Font.'Lato Light'
         Height: =250
         PaddingBottom: =12
@@ -129,7 +133,7 @@ homescreen As screen:
         FocusedBorderThickness: =4
         Font: =Font.'Lato Light'
         FontWeight: =FontWeight.Bold
-        Height: =62
+        Height: =64
         PaddingBottom: =12
         PaddingLeft: =12
         PaddingRight: =12
@@ -156,6 +160,10 @@ homescreen As screen:
         Font: =Font.'Lato Light'
         FontWeight: =FontWeight.Semibold
         Height: =60
+        PaddingBottom: =8
+        PaddingLeft: =8
+        PaddingRight: =8
+        PaddingTop: =8
         Size: =21
         Text: ="        Available after reading each corresponding module."
         Width: =579
@@ -179,7 +187,7 @@ homescreen As screen:
         DisabledBorderColor: =RGBA(0, 121, 187, 1)
         DisabledColor: =RGBA(102, 182, 227, 1)
         DisabledFill: =RGBA(0, 121, 187, 1)
-        Fill: =RGBA(185, 217, 237, 1)
+        Fill: =RGBA(216, 233, 240, 1)
         Font: =Font.'Lato Light'
         Height: =250
         HoverColor: =RGBA(0, 121, 187, 1)
@@ -203,7 +211,7 @@ homescreen As screen:
     Button2_3 As button:
         Align: =Align.Left
         Color: =RGBA(26, 26, 26, 1)
-        Fill: =RGBA(185, 217, 237, 1)
+        Fill: =RGBA(216, 233, 240, 1)
         Font: =Font.'Lato Light'
         Height: =250
         PaddingBottom: =12
@@ -224,11 +232,11 @@ homescreen As screen:
         ZIndex: =15
 
     Image3 As image:
-        Height: =170
+        Height: =141
         Image: =galleta
         Width: =172
-        X: =148
-        Y: =393
+        X: =147
+        Y: =413
         ZIndex: =17
 
     Image4 As image:

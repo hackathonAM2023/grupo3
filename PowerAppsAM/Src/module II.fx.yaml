@@ -1,45 +1,40 @@
 "'module II' As screen":
 
     Rectangle1_2 As rectangle:
-        Fill: =RGBA(114, 161, 176, 1)
+        Fill: =RGBA(99, 146, 166, 1)
         Height: =104
         Width: =640
         ZIndex: =1
 
     Label3_5 As label:
         Align: =Align.Center
-        Color: =RGBA(26, 26, 26, 1)
+        Color: =RGBA(241, 244, 249, 1)
         Font: =Font.'Lato Light'
         FontWeight: =FontWeight.Bold
         Height: =83
         Size: =36
         Text: |-
-            ="://netrust"
+            ="://Nettrust"
         Width: =256
         X: =192
         Y: =10
         ZIndex: =2
 
     Icon1_2 As icon.Hamburger:
-        Color: =RGBA(26, 26, 26, 1)
+        Color: =RGBA(241, 244, 249, 1)
+        Height: =60
         Icon: =Icon.Hamburger
+        Width: =60
         X: =26
         Y: =19
         ZIndex: =3
 
     Icon2_2 As icon.Person:
-        Color: =RGBA(26, 26, 26, 1)
+        Color: =RGBA(241, 244, 249, 1)
         Icon: =Icon.Person
         X: =550
         Y: =19
         ZIndex: =4
-
-    Rectangle2_2 As rectangle:
-        Height: =0
-        Width: =521
-        X: =60
-        Y: =60
-        ZIndex: =5
 
     Label2_10 As label:
         BorderColor: =RGBA(219, 219, 219, 1)
@@ -49,6 +44,10 @@
         Font: =Font.'Lato Light'
         FontWeight: =FontWeight.Bold
         Height: =60
+        PaddingBottom: =12
+        PaddingLeft: =12
+        PaddingRight: =12
+        PaddingTop: =12
         Size: =26
         Text: |-
             ="Module II: Passwords
@@ -59,56 +58,72 @@
         ZIndex: =6
 
     Image6 As image:
-        Height: =263
-        Image: ='contraseñas'
-        Width: =316
-        X: =162
-        Y: =499
+        Height: =274
+        Image: =contraseñas
+        ImagePosition: =ImagePosition.Stretch
+        Width: =275
+        X: =186
+        Y: =532
         ZIndex: =7
 
     Label5 As label:
-        Color: =RGBA(114, 161, 176, 1)
-        Font: =Font.'Lato Black'
+        Color: =RGBA(99, 146, 166, 1)
+        Font: =Font.'Lato Light'
+        FontWeight: =FontWeight.Bold
         Height: =70
+        PaddingBottom: =12
+        PaddingLeft: =12
+        PaddingRight: =12
+        PaddingTop: =12
         Size: =28
         Text: ="What is a password?"
-        Width: =560
-        X: =14
-        Y: =238
+        Width: =579
+        X: =34
+        Y: =225
         ZIndex: =8
 
     Label7 As label:
         Align: =Align.Justify
-        Font: =Font.Verdana
-        Height: =235
-        Size: =21
+        Font: =Font.'Lato Light'
+        FontWeight: =FontWeight.Semibold
+        Height: =180
+        PaddingBottom: =12
+        PaddingLeft: =12
+        PaddingRight: =12
+        PaddingTop: =12
+        Size: =23
         Text: ="A password is a set of characters used to access restricted information on a system, service, web site, computer or mobile device."
-        Width: =567
-        X: =33
-        Y: =296
+        Width: =579
+        X: =21
+        Y: =329
         ZIndex: =9
 
     Label8 As label:
         Align: =Align.Justify
-        Font: =Font.Verdana
-        Height: =205
-        Size: =21
-        Text: ="Today we are going to explain how to protect your online accounts against cyber attacks. for that we will first give you some tips to create a password that is as secure as possible. "
-        Width: =560
-        X: =40
-        Y: =801
+        Font: =Font.'Lato Light'
+        FontWeight: =FontWeight.Semibold
+        Height: =200
+        PaddingBottom: =12
+        PaddingLeft: =12
+        PaddingRight: =12
+        PaddingTop: =12
+        Size: =23
+        Text: ="Today we are going to explain how to protect your online accounts against cyber attacks. For that, we will first give you some tips to create a password that is as secure as possible. "
+        Width: =579
+        X: =26
+        Y: =837
         ZIndex: =10
 
     Rectangle4 As rectangle:
-        Fill: =RGBA(114, 161, 176, 1)
-        Height: =63
+        Fill: =RGBA(99, 146, 166, 1)
+        Height: =64
         Width: =14
-        X: =26
-        Y: =138
+        X: =28
+        Y: =139
         ZIndex: =11
 
     Rectangle5 As rectangle:
-        Fill: =RGBA(114, 161, 176, 1)
+        Fill: =RGBA(99, 146, 166, 1)
         Height: =2
         Width: =640
         Y: =308

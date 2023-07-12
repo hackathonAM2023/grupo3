@@ -1182,6 +1182,78 @@
               "message": {
                 "text": "Error al ejecutar la regla app-InefficientDelayLoading."
               }
+            },
+            {
+              "associatedRule": {
+                "id": "app-InefficientDelayLoading",
+                "index": 4
+              },
+              "descriptor": {
+                "id": "app-InefficientDelayLoading"
+              },
+              "message": {
+                "text": "Error al ejecutar la regla app-InefficientDelayLoading."
+              }
+            },
+            {
+              "associatedRule": {
+                "id": "app-InefficientDelayLoading",
+                "index": 4
+              },
+              "descriptor": {
+                "id": "app-InefficientDelayLoading"
+              },
+              "message": {
+                "text": "Error al ejecutar la regla app-InefficientDelayLoading."
+              }
+            },
+            {
+              "associatedRule": {
+                "id": "app-InefficientDelayLoading",
+                "index": 4
+              },
+              "descriptor": {
+                "id": "app-InefficientDelayLoading"
+              },
+              "message": {
+                "text": "Error al ejecutar la regla app-InefficientDelayLoading."
+              }
+            },
+            {
+              "associatedRule": {
+                "id": "app-InefficientDelayLoading",
+                "index": 4
+              },
+              "descriptor": {
+                "id": "app-InefficientDelayLoading"
+              },
+              "message": {
+                "text": "Error al ejecutar la regla app-InefficientDelayLoading."
+              }
+            },
+            {
+              "associatedRule": {
+                "id": "app-InefficientDelayLoading",
+                "index": 4
+              },
+              "descriptor": {
+                "id": "app-InefficientDelayLoading"
+              },
+              "message": {
+                "text": "Error al ejecutar la regla app-InefficientDelayLoading."
+              }
+            },
+            {
+              "associatedRule": {
+                "id": "app-InefficientDelayLoading",
+                "index": 4
+              },
+              "descriptor": {
+                "id": "app-InefficientDelayLoading"
+              },
+              "message": {
+                "text": "Error al ejecutar la regla app-InefficientDelayLoading."
+              }
             }
           ]
         }
@@ -1522,17 +1594,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "App.nettrust logo"
+                  "fullyQualifiedName": "App.nettrust logo_1"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "App.nettrust logo",
+                  "fullyQualifiedName": "App.nettrust logo_1",
                   "relativeAddress": 0
                 }
               },
               "properties": {
-                "member": "nettrust logo",
+                "member": "nettrust logo_1",
                 "module": "App",
                 "type": "App"
               }
