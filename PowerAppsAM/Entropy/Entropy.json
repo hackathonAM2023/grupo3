@@ -36,6 +36,7 @@
     "Icon5_1": 49,
     "Icon6": 33,
     "Icon7": 36,
+    "Image1": 101,
     "Label1": 63,
     "Label1_1": 28,
     "Label1_2": 67,
@@ -59,9 +60,9 @@
     "Label2_8": 50,
     "Label2_9": 100,
     "Label3": 65,
-    "Label3_1": 19,
+    "Label3_1": 102,
     "Label3_10": 32,
-    "Label3_2": 55,
+    "Label3_2": 103,
     "Label3_3": 39,
     "Label3_4": 96,
     "Label3_5": 6,
@@ -85,8 +86,6 @@
     "Rectangle1_5": 77,
     "Rectangle1_6": 87,
     "Rectangle1_7": 31,
-    "Rectangle2": 42,
-    "Rectangle2_1": 99,
     "Rectangle2_2": 9,
     "Rectangle2_3": 16,
     "Rectangle2_4": 73,
@@ -103,17 +102,19 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "07/12/2023 14:42:07",
+  "HeaderLastSavedDateTimeUTC": "07/12/2023 15:09:54",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "1e55b1fa-ffa1-4d40-afb9-18355724e24f": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/41c81c083be745ac87e7dd52aeec9101\""
   },
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {
-    "nettrust logo": "0001.png"
+    "Nettrust logo": "1b80c44e-3cb9-4f79-bfb4-ab9b561d6167.png",
+    "nettrust logo_1": "0001.png"
   },
   "LocalResourceRootPaths": {
-    "nettrust logo": "https://docserverpwaprodeus.blob.core.windows.net/9f0eb9dc-1672-4b22-8e3a-fa0ac498193f-1/resource/Assets0Images00001.png?sv=2018-03-28&sr=b&sig=jm0qJG1x4KEYckK1n%2FipTlY4%2FJjQGtNyjJG8kl3LcEk%3D&spr=https&se=2023-07-13T14%3A52%3A35Z&sp=r"
+    "nettrust logo": "https://docserverpwaprodeus.blob.core.windows.net/9f0eb9dc-1672-4b22-8e3a-fa0ac498193f-1/resource/Assets0Images00001.png?sv=2018-03-28&sr=b&sig=jm0qJG1x4KEYckK1n%2FipTlY4%2FJjQGtNyjJG8kl3LcEk%3D&spr=https&se=2023-07-13T14%3A52%3A35Z&sp=r",
+    "Nettrust logo": "https://docserverpwaprodeus.blob.core.windows.net/9f0eb9dc-1672-4b22-8e3a-fa0ac498193f-1/resource/6ffe00d7-277b-4ab6-a76c-94bddc5accb1.png?sv=2018-03-28&sr=b&sig=B%2BwBnehP2XeLMEHSu%2Bk3aQoWUoJ6gxFHkYiWcttXTh4%3D&spr=https&se=2023-07-13T15%3A11%3A22Z&sp=r"
   },
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
@@ -127,8 +128,9 @@
   "OrderXMLTemplate": {
     "button": 4,
     "circle": 5,
-    "gallery": 6,
+    "gallery": 7,
     "icon": 2,
+    "image": 6,
     "label": 1,
     "rectangle": 0,
     "text": 3
@@ -168,6 +170,7 @@
     "Icon5_1": {},
     "Icon6": {},
     "Icon7": {},
+    "Image1": {},
     "Label1": {},
     "Label1_1": {},
     "Label1_2": {},
@@ -217,8 +220,6 @@
     "Rectangle1_5": {},
     "Rectangle1_6": {},
     "Rectangle1_7": {},
-    "Rectangle2": {},
-    "Rectangle2_1": {},
     "Rectangle2_2": {},
     "Rectangle2_3": {},
     "Rectangle2_4": {},
@@ -270,6 +271,7 @@
     "Icon5_1": 15,
     "Icon6": 96,
     "Icon7": 99,
+    "Image1": 0,
     "Label1": 29,
     "Label1_1": 91,
     "Label1_2": 33,
@@ -293,9 +295,9 @@
     "Label2_8": 16,
     "Label2_9": 66,
     "Label3": 31,
-    "Label3_1": 82,
+    "Label3_1": 31,
     "Label3_10": 95,
-    "Label3_2": 21,
+    "Label3_2": 31,
     "Label3_3": 5,
     "Label3_4": 62,
     "Label3_5": 69,
@@ -319,8 +321,6 @@
     "Rectangle1_5": 43,
     "Rectangle1_6": 53,
     "Rectangle1_7": 94,
-    "Rectangle2": 8,
-    "Rectangle2_1": 65,
     "Rectangle2_2": 72,
     "Rectangle2_3": 79,
     "Rectangle2_4": 39,
@@ -336,7 +336,8 @@
     "user profile": 92
   },
   "ResourcesJsonIndices": {
-    "Image-nettrust logo": 1,
+    "Image-Nettrust logo": 2,
+    "Image-nettrust logo_1": 1,
     "Image-SampleImage": 0
   },
   "RuleScreenIdWithoutScreen": {},
@@ -350,7 +351,7 @@
       "galleryTemplate": 1,
       "icon": 22,
       "image": 1,
-      "label": 33,
+      "label": 35,
       "rectangle": 16,
       "screen": 11,
       "text": 5
