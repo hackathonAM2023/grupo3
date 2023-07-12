@@ -1,24 +1,24 @@
 logo As screen:
 
     Image1 As image:
-        Height: =450
+        Height: =588
         Image: ='nettrust logo'
-        Width: =450
-        X: =99
-        Y: =336
+        Width: =575
+        X: =32
+        Y: =282
         ZIndex: =1
 
     Label3 As label:
-        Color: =RGBA(26, 26, 26, 1)
-        Font: =Font.'Lato Light'
+        Color: =RGBA(63, 215, 232, 1)
+        Font: =Font.Verdana
         FontWeight: =FontWeight.Semibold
         Height: =70
-        Size: =30
+        Size: =50
         Text: |-
-            ="://netrust"
+            ="://Nettrust"
         Width: =560
-        X: =49
-        Y: =53
+        X: =16
+        Y: =30
         ZIndex: =2
 
     Label1_2 As label:

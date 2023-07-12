@@ -58,3 +58,59 @@
         Y: =141
         ZIndex: =6
 
+    Image6 As image:
+        Height: =263
+        Image: ='contraseñas'
+        Width: =316
+        X: =162
+        Y: =499
+        ZIndex: =7
+
+    Label5 As label:
+        Color: =RGBA(114, 161, 176, 1)
+        Font: =Font.'Lato Black'
+        Height: =70
+        Size: =28
+        Text: ="What is a password?"
+        Width: =560
+        X: =14
+        Y: =238
+        ZIndex: =8
+
+    Label7 As label:
+        Align: =Align.Justify
+        Font: =Font.Verdana
+        Height: =235
+        Size: =21
+        Text: ="A password is a set of characters used to access restricted information on a system, service, web site, computer or mobile device."
+        Width: =567
+        X: =33
+        Y: =296
+        ZIndex: =9
+
+    Label8 As label:
+        Align: =Align.Justify
+        Font: =Font.Verdana
+        Height: =205
+        Size: =21
+        Text: ="Today we are going to explain how to protect your online accounts against cyber attacks. for that we will first give you some tips to create a password that is as secure as possible. "
+        Width: =560
+        X: =40
+        Y: =801
+        ZIndex: =10
+
+    Rectangle4 As rectangle:
+        Fill: =RGBA(114, 161, 176, 1)
+        Height: =63
+        Width: =14
+        X: =26
+        Y: =138
+        ZIndex: =11
+
+    Rectangle5 As rectangle:
+        Fill: =RGBA(114, 161, 176, 1)
+        Height: =2
+        Width: =640
+        Y: =308
+        ZIndex: =12
+
